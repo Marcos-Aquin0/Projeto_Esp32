@@ -1,5 +1,4 @@
-python<=3.5
 streamlit
 psycopg2-binary
 pandas
-paho.mqtt.client
+paho-mqtt
