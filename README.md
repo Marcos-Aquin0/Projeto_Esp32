@@ -47,4 +47,4 @@ Para executar o `app.py` usando Streamlit, siga estes passos:
 3. **Abra a URL fornecida no seu navegador web:**
 
     Após executar o comando, o Streamlit fornecerá uma URL local (geralmente `http://localhost:8501`). Abra essa URL no seu navegador web para visualizar e interagir com o aplicativo.
-    Ou utilize o deploy do app: `https://`.
+    Ou utilize o deploy do app: `https://projeto-esp32.streamlit.app`.
